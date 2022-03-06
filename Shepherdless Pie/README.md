@@ -25,7 +25,7 @@ Adapted from family recipie and has a very "figure it out along the way" organiz
   
 ## Cooking
 
-- Cut and boil potatoes, add butter, mash -> mashed potatoes
+- Cut/peel and boil potatoes, add butter, mash -> mashed potatoes
   - Yeah, yeah these aren't good instructions.  Go read somewhere else how to make mashed potatoes, that's all we're doing here.
 - Chop and saute onion
 - Brown "meat" (adding to onion)
