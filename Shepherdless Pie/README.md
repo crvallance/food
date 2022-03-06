@@ -1,6 +1,6 @@
 # Shepherdless Pie
 
-Adapted from family recipie and has a very "figure it out along the way" organization.  We rarely had true Shepherd's with actual lamb so I'd consider this a variation on a cottage pie.
+Adapted from family recipe and has a very "figure it out along the way" organization.  We rarely had true Shepherd's with actual lamb so I'd consider this a variation on a cottage pie.
 
   - [Ingredients (Basic Version)](#ingredients-basic-version)
   - [Cooking](#cooking)
