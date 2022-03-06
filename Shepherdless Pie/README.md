@@ -14,9 +14,9 @@ Adapted from family recipie and has a very "figure it out along the way" organiz
 - 1 lb (16 oz) veggie crumbles
   - Again, adjust if you want more not-meat
   - Morningstar used to be my standard but if you want more meat-like flavour go with the Beyond ground
-- 1 large teaspon of Marmite (optional)
+- 1 large teaspoon of Marmite (optional)
   - This matters less when using Beyond but still adds nice flavour
-- 1/2 mesaure of Bisto (optional)
+- 1/2 measure of Bisto (optional)
   - Instructions make a lot, so I do half.  The granules can be found in World Market these days.  Again, not totally needed when using beyond but I still like it.
 - 1 medium onion
 - Fat as needed for mash
@@ -26,7 +26,7 @@ Adapted from family recipie and has a very "figure it out along the way" organiz
 ## Cooking
 
 - Cut and boil potatoes, add butter, mash -> mashed potatoes
-  - Yeah, yeah these aren't good instrcutuons.  Go read somewhere else how to make mashed potatoes, that's all we're doing here.
+  - Yeah, yeah these aren't good instructions.  Go read somewhere else how to make mashed potatoes, that's all we're doing here.
 - Chop and saute onion
 - Brown "meat" (adding to onion)
   - If using beyond this will actually cook up with the fat so brown it like you might when using beef.
@@ -49,6 +49,6 @@ Cheese is blasphemy but here I am telling you how to make this without meat so, 
 
 - Peel and cook 2-3 large parsnips and then throw them in with the potatoes when you mash them.  It will give a pleasant sweetness.  
 
-- You could also consider swapping out a baking potato for a sweet potato but the parsnip is defintely more on the British side.
+- You could also consider swapping out a baking potato for a sweet potato but the parsnip is definitely more on the British side.
 
-- Add your veg right in to the "meat" while browning.  All of this is firmly in cottage pie terratory anyway, just figure out what you like.
+- Add your veg right in to the "meat" while browning.  All of this is firmly in cottage pie territory anyway, just figure out what you like.
